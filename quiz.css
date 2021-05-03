@@ -1,0 +1,27 @@
+body
+{
+	background-color : lightblue;
+}
+
+	.login_div_1 , .login_div_2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player_1 , #player_2
+{
+	display: inline-block;
+	margin-left: 3px;
+}
+#output {
+	background-color: whitesmoke;
+	border-radius: 10px;
+	border-top: 10px solid red;
+	padding: 10px;
+	float: none;
+	text-align: left;
+}
